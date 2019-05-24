@@ -1,0 +1,14 @@
+C:\Users\xinhl\source\repos\api\api\bin\Release\netcoreapp2.2\api.deps.json
+C:\Users\xinhl\source\repos\api\api\bin\Release\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\xinhl\source\repos\api\api\bin\Release\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\xinhl\source\repos\api\api\bin\Release\netcoreapp2.2\api.dll
+C:\Users\xinhl\source\repos\api\api\bin\Release\netcoreapp2.2\api.pdb
+C:\Users\xinhl\source\repos\api\api\obj\Release\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\xinhl\source\repos\api\api\obj\Release\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\xinhl\source\repos\api\api\obj\Release\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\xinhl\source\repos\api\api\obj\Release\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\xinhl\source\repos\api\api\obj\Release\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\xinhl\source\repos\api\api\obj\Release\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\xinhl\source\repos\api\api\obj\Release\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\xinhl\source\repos\api\api\obj\Release\netcoreapp2.2\api.dll
+C:\Users\xinhl\source\repos\api\api\obj\Release\netcoreapp2.2\api.pdb
